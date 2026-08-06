@@ -1,0 +1,16 @@
+# ===== WorkBuddy internal data (local memory / private notes) — NEVER commit =====
+.workbuddy/
+
+# ===== Build artifacts =====
+dist/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ===== Local screenshots / temp build dirs =====
+.shots/
+_ctn_build_tmp/
+
+# ===== Logs =====
+*.log
